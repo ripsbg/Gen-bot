@@ -1,0 +1,32 @@
+{
+  "token": "",  
+  "username": "user",
+  "password": "pass", 
+
+  "port": "3000",
+  
+  "clientId": "1375424634643677295",
+  "guildId": "1350461467748728852",
+  "globalDeploy": false,
+
+  "status": "Made By SbG 🔥",
+  "website": "nothing",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By SbG 🔥",
+
+  "genChannel": "1375525524092223488",
+  "premiumChannel": "0000000000000000000",
+  "genCooldown": "300",
+  "premiumCooldown": "120",
+
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
